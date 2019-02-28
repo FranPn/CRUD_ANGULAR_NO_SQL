@@ -1,0 +1,14 @@
+C:\Users\fpian\source\repos\CRUD_Angular\bin\Debug\netcoreapp2.2\CRUD_Angular.deps.json
+C:\Users\fpian\source\repos\CRUD_Angular\bin\Debug\netcoreapp2.2\CRUD_Angular.runtimeconfig.json
+C:\Users\fpian\source\repos\CRUD_Angular\bin\Debug\netcoreapp2.2\CRUD_Angular.runtimeconfig.dev.json
+C:\Users\fpian\source\repos\CRUD_Angular\bin\Debug\netcoreapp2.2\CRUD_Angular.dll
+C:\Users\fpian\source\repos\CRUD_Angular\bin\Debug\netcoreapp2.2\CRUD_Angular.pdb
+C:\Users\fpian\source\repos\CRUD_Angular\obj\Debug\netcoreapp2.2\CRUD_Angular.csprojAssemblyReference.cache
+C:\Users\fpian\source\repos\CRUD_Angular\obj\Debug\netcoreapp2.2\CRUD_Angular.csproj.CoreCompileInputs.cache
+C:\Users\fpian\source\repos\CRUD_Angular\obj\Debug\netcoreapp2.2\CRUD_Angular.RazorAssemblyInfo.cache
+C:\Users\fpian\source\repos\CRUD_Angular\obj\Debug\netcoreapp2.2\CRUD_Angular.RazorAssemblyInfo.cs
+C:\Users\fpian\source\repos\CRUD_Angular\obj\Debug\netcoreapp2.2\CRUD_Angular.AssemblyInfoInputs.cache
+C:\Users\fpian\source\repos\CRUD_Angular\obj\Debug\netcoreapp2.2\CRUD_Angular.AssemblyInfo.cs
+C:\Users\fpian\source\repos\CRUD_Angular\obj\Debug\netcoreapp2.2\CRUD_Angular.RazorTargetAssemblyInfo.cache
+C:\Users\fpian\source\repos\CRUD_Angular\obj\Debug\netcoreapp2.2\CRUD_Angular.dll
+C:\Users\fpian\source\repos\CRUD_Angular\obj\Debug\netcoreapp2.2\CRUD_Angular.pdb
